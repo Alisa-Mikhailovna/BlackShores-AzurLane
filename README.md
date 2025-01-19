@@ -13,4 +13,5 @@
 - **TW**: com.hkmanjuu.azurlane.gp
 
 ## How to setup
-Download the APKs from the draft releases
+- Download the APKs from the draft releases
+- Take OBB from ApkPure [v8.2.1](https://apkpure.com/id/azur-lane-apk/com.YoStarEN.AzurLane/download/8.2.1) 
