@@ -7,13 +7,12 @@
 ## Come Join Discord Server
 
 ## Azur Lane regions
-- **EN**: com.YoStarEN.AzurLane
-- **JP**: com.YoStarJP.AzurLane
-- **KR**: kr.txwy.and.blhx
-- **TW**: com.hkmanjuu.azurlane.gp
+- **EN**: PAID
+- **JP**: FREE
+- **CN**: PAID
+- **KR**: PAID
+- **TW**: PAID
 
 ## How to setup
 - Download the APKs from the draft releases
-- Take OBB from ApkPure
-- Global [v8.2.1](https://apkpure.com/id/azur-lane-apk/com.YoStarEN.AzurLane/download/8.2.1)
-- JP [v8.2.15](https://apkpure.com/%E3%82%A2%E3%82%BA%E3%83%BC%E3%83%AB%E3%83%AC%E3%83%BC%E3%83%B3/com.YoStarJP.AzurLane/download/8.2.15)
+- JP [v9.1.9 Latest]
